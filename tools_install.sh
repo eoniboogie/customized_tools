@@ -21,3 +21,6 @@ wget https://github.com/peass-ng/PEASS-ng/releases/download/20250401-a1b119bc/li
 
 # flameshot
 sudo apt -y install flameshot
+
+# tmux setting
+mv ./.tmux.conf ~/.tmux.conf
