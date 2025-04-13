@@ -24,3 +24,10 @@ sudo apt -y install flameshot
 
 # tmux setting
 mv ./.tmux.conf ~/.tmux.conf
+
+# dirbuster
+sudo apt -y install feroxbuster
+sudo apt -y install gobuster
+
+# korean font
+sudo apt -y install fonts-nanum
