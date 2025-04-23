@@ -3,6 +3,8 @@
 sudo apt update
 sudo apt -y install evince
 
+mkdir ~/Tools
+
 # powerview
 cd ~/Tools && git clone https://github.com/aniqfakhrul/powerview.py.git
 
