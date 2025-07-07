@@ -24,6 +24,12 @@ wget https://github.com/peass-ng/PEASS-ng/releases/download/20250401-a1b119bc/li
 # flameshot
 sudo apt -y install flameshot
 
+# rlwrap
+sudo apt -y install rlwrap
+
+# mousepad
+sudo apt -y install mousepad
+
 # tmux setting
 mv ./.tmux.conf ~/.tmux.conf
 
