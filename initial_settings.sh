@@ -11,6 +11,9 @@ cd ~/Tools && git clone https://github.com/aniqfakhrul/powerview.py.git
 # git-dumper
 cd ~/Tools && git clone https://github.com/arthaud/git-dumper.git
 
+# mimikatz
+cp /usr/share/windows-resources/mimikatz/x64/mimikatz.exe ~/Tools
+
 # pspy
 wget https://github.com/DominicBreuker/pspy/releases/download/v1.2.1/pspy64 -O ~/Tools/pspy64
 
